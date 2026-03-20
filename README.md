@@ -1,4 +1,4 @@
-# Gushwork Assignment - Mangalam Hope Pipes
+# Gushwork Assignment - Mangalam HDPE Pipes
 
 This project is a responsive web page built from scratch using purely vanilla HTML, CSS, and JavaScript (no frameworks or libraries used). It was developed to exactly match a provided Figma design specification for "Mangalam Hope Pipes", a manufacturer of HDPE pipes and coils.
 
